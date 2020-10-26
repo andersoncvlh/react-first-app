@@ -1,3 +1,8 @@
+# About
+Ref:
+https://pt-br.reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
